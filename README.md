@@ -4,9 +4,6 @@
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Node ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	muhammadmoizshaikh@gmail.com <br>
-    :art: Portfolio: https://abdulmoizshaikh.github.io/Portfolio/ <br>
-    :briefcase: LinkedIn: https://www.linkedin.com/in/muhammad-moiz-489a04137/ <br>
   </samp>
 </p>
 
