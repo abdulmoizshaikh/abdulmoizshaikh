@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/abdulmoizshaikh?style=social)
+
 <p align="center">
   <samp>
     Hi, I'm Moiz! 👋 <br>
