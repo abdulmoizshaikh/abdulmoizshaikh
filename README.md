@@ -13,7 +13,7 @@ A dedicated and passionate Web and Mobile App Developer with over 5 years of exp
   
 🔥 Interested in Software Development, Generative AI and Artificial intelligence;
 
-📆 Available for Freelance Work Regarding Cross Platform Mobile App Development, Website Development;
+ <!-- 📆 Available for Freelance Work Regarding Cross Platform Mobile App Development, Website Development; -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
