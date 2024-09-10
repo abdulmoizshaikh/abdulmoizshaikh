@@ -18,7 +18,7 @@ A dedicated and passionate Web and Mobile App Developer with over 5 years of exp
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/iammoiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iammoiz/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/muhammadmoizshaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abdulmoizshaikh/" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/muhammadmoizshaikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abdulmoizshaikh/" height="30" width="40" /></a> -->
 </p>
 
 
