@@ -3,9 +3,9 @@
 
 A dedicated and passionate Software Engineer with around 6 years of experience, specializing in JavaScript, and continuously eager to learn and adopt new technologies.
 
-- 🌱 I’m currently learning **Python, Cypress**
+<!-- - 🌱 I’m currently learning **Python, Cypress**-->
 
-- 💬 Ask me about **MERN Stack/ MEAN Stack, React Native**
+- 💬 Ask me about **React, JavaScript, React Native, Node**
 
 - 📫 How to reach me **muhammadmoizshaikh@gmail.com**
 
