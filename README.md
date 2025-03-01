@@ -1,7 +1,7 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/abdulmoizshaikh?style=social) -->
 ### Hi 👋, I'm a Moiz
 
-A dedicated and passionate Software Engineer with around 5.5+ years of experience, specializing in JavaScript, and continuously eager to learn and adopt new technologies.
+A dedicated and passionate Software Engineer with around 6.5+ years of experience, specializing in JavaScript, and continuously eager to learn and adopt new technologies.
 
 <!-- - 🌱 I’m currently learning **Python, Cypress**-->
 
