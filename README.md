@@ -1,7 +1,6 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/abdulmoizshaikh?style=social) -->
 ### Hi 👋, I'm a Moiz
 
-<!-- <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 A dedicated and passionate Software Engineer with around 6.5+ years of experience, specializing in JavaScript, and continuously eager to learn and adopt new technologies.
 
@@ -95,4 +94,9 @@ zap Other Skills: I've been doing photography from past 1 year of Random potrait
     :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
   </samp>
 </p> -->
+
+
+
+<!-- <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" /> -->
+<!-- https://github.com/hsnmnr/hsnmnr/blob/main/README.md -->
 
