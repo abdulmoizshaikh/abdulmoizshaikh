@@ -1,7 +1,7 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/abdulmoizshaikh?style=social) -->
 ### Hi 👋, I'm a Moiz
 
-<img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/hsnmnr/hsnmnr/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 A dedicated and passionate Software Engineer with around 6.5+ years of experience, specializing in JavaScript, and continuously eager to learn and adopt new technologies.
 
