@@ -10,7 +10,7 @@ A dedicated and passionate Software Engineer with around 7+ years of experience,
 
 - 📫 How to reach me **muhammadmoizshaikh@gmail.com**
 
-- 📄 Know about my experiences [**by visiting my resume.**](https://drive.google.com/file/d/1blj-KhzLCNUZahPrf0XZIgvOKxemFuUS/view)
+- 📄 Know about my experiences [**by visiting my resume.**](https://abdulmoizshaikh.github.io/resumes-site/FS.html)
   
 🔥 Interested in Software Development, Generative AI and Artificial intelligence;
 
